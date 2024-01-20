@@ -1,0 +1,7 @@
+(define fib
+  (lambda (num)
+    (cond
+      ((= num 0) 0)
+      ((= num 1) 1)
+      (else (+ (fib (- n 1))(fib (- n 2)))))))
+      

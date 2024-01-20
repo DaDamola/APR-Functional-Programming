@@ -1,0 +1,5 @@
+(define mylength
+  (lambda (ls)
+    (cond
+      ((null? ls) 0)
+      (else (+ 1 (mylength (cdr ls)))))))

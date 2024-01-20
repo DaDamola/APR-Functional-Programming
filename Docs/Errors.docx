@@ -1,0 +1,25 @@
+﻿
+    • attempts to take the car of the empty list
+    • missing parameter in recursive call
+    • gives procedure zero? two arguments
+    • creates a list that contains the first item in only the first sublist
+    • changes all the elements in the list to the old item
+    • uses undeclared parameter  
+    • removes the first two occurrences of the item from the list	
+    • uses new as an procedure
+    • creates new list as a dotted pair
+    • forms a dotted pair between the last two elements
+
+
+Type Errors:
+    • gives procedure zero? two arguments
+    • missing parameter in recursive call 
+    • uses undeclared parameter
+
+Control Flow Errors:
+	• attempts to take the car of the empty list
+	• changes all the elements in the list to the old item
+	• creates a list that contains the first item in only the first sublist
+
+Logic Errors:
+
